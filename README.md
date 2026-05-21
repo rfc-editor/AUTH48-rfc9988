@@ -1,6 +1,6 @@
-# AUTH48 for RFC-to-be 9988 <draft-ietf-core-href-30> (in markdown)
+# Final Review for RFC-to-be 9988 <draft-ietf-core-href-30> (in markdown)
 
-This repository is for managing document updates for RFC 9988 during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process). 
+This repository is for managing document updates for RFC 9988 during Final Review (formerly called AUTH48). This is part of the [pilot GitHub-based process for Final Review](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current Final Review procedure](https://authors.ietf.org/en/rfc-publication-process). 
 
 Please see the [License](https://github.com/rfc-editor/AUTH48-rfc9988/blob/Approved/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/AUTH48-rfc9988/blob/Approved/note-well.md) applies.
 
@@ -12,7 +12,7 @@ GitHub features that will be used:
 Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub notification settings are set such that you can participate promptly in discussions of issues and pull requests. For more information, please see [Configuring notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications).  
 
 ## Pull Requests and Issue Tracking
-The initial version of rfc9988.md is a copy of the Internet-Draft (in markdown) as it was approved for publication. A pull request has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process). 
+The initial version of rfc9988.md is a copy of the Internet-Draft (in markdown) as it was approved for publication. A pull request has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current Final Review procedure](https://authors.ietf.org/en/rfc-publication-process). 
 
 The edits made by the RPC appear in the RPC-edits branch.  Please work within this branch as much as possible. In particular, use the [comment and suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request) features to comment or suggest updates.  
 
@@ -52,13 +52,13 @@ Authors should send approval by email as indicated below.
 
 **ADs** - To approve any changes that are beyond editorial, **please reply to the email requesting approval** (using **REPLY ALL**) so everyone is aware of the approval.  
 
-The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfc9988](https://www.rfc-editor.org/auth48/rfc9988)
+The details of the Final Review status of the document are here: [https://www.rfc-editor.org/auth48/rfc9988](https://www.rfc-editor.org/auth48/rfc9988)
 
 ## About This Repo
-Note that this repo is available only during AUTH48. This repo will be archived after the RFC publication announcement is sent. 
+Note that this repo is available only during Final Review. This repo will be archived after the RFC publication announcement is sent. 
 
-## Reverting to the Email-based AUTH48 Process
-If for some reason a participant (including the RPC) wants to stop using GitHub and wants to use the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process), this can be accommodated. We have structured the repo and the pilot process to align with the current process, and we can transition the AUTH48 from GitHub to email.  Please send mail to the RPC as noted below. 
+## Reverting to the Email-based Final Review Process
+If for some reason a participant (including the RPC) wants to stop using GitHub and wants to use the [current Final Review procedure](https://authors.ietf.org/en/rfc-publication-process), this can be accommodated. We have structured the repo and the pilot process to align with the current process, and we can transition the Final Review from GitHub to email.  Please send mail to the RPC as noted below. 
 
 ## Contacting the RFC Production Center 
 For any questions, concerns, or requests to opt out of the GitHub process, please contact rfc-editor@rfc-editor.org and CC auth48archive@rfc-editor.org. 
